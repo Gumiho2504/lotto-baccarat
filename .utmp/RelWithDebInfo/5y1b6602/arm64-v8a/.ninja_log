@@ -1,0 +1,23 @@
+# ninja log v5
+0	1173	1723797711697489522	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d2677ce394f7263a
+1	998	1723797711521669401	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	761c57aab6e93ee
+2	1050	1723797711572030795	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ef86fe4284d9a59f
+4	940	1723797711463235869	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4d26951a0bb245c8
+4	886	1723797711409565048	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5bee9c73532d9ec9
+1	845	1723797711368031184	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	45589e2ee35ee253
+1173	1241	1723797711762825567	/Users/rose/Documents/UnityGame/8/lotto-baccarat/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y1b6602/obj/arm64-v8a/libgame.so	b24ec4b29c732c44
+230	336	1723797710854167824	/Users/rose/Documents/UnityGame/8/lotto-baccarat/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y1b6602/obj/arm64-v8a/libswappywrapper.so	b0a38cb46555ef6e
+1	842	1723797711364575386	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	50312c4e15ac0871
+2	806	1723797711327422372	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e8ae2de47acb831f
+4	230	1723797710755448673	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2057b3f83f6cd308
+19	641	1723862897460868972	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2057b3f83f6cd308
+641	1003	1723862897824152396	/Users/rose/Documents/UnityGame/8/lotto-baccarat/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y1b6602/obj/arm64-v8a/libswappywrapper.so	b0a38cb46555ef6e
+15	1088	1723862897909705799	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e8ae2de47acb831f
+13	1112	1723862897932237030	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	45589e2ee35ee253
+13	1129	1723862897951082244	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	50312c4e15ac0871
+17	1194	1723862898014474377	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5bee9c73532d9ec9
+18	1220	1723862898042850594	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4d26951a0bb245c8
+13	1231	1723862898053055518	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	761c57aab6e93ee
+14	1363	1723862898185283892	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ef86fe4284d9a59f
+12	1472	1723862898294594658	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d2677ce394f7263a
+1473	1542	1723862898362348228	/Users/rose/Documents/UnityGame/8/lotto-baccarat/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y1b6602/obj/arm64-v8a/libgame.so	b24ec4b29c732c44
